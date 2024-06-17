@@ -1,2 +1,2 @@
 My Portafolio Challenge - Alura LATAM
-MIRA MI PORTAFOLIO: http://127.0.0.1:5500/index.html#formacion
+MIRA MI PORTAFOLIO: https://sidnyoops.github.io/Front-End-Challenge-Portafolio---Sidny/
